@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Juan Pérez",
+    "numPeople": 5,
+    "dateTime": "2024-12-01T10:00:00Z",
+    "status": "pending"
+  },
+  {
+    "name": "María López",
+    "numPeople": 8,
+    "dateTime": "2024-12-02T14:30:00Z",
+    "status": "confirmed"
+  },
+  {
+    "name": "Carlos García",
+    "numPeople": 3,
+    "dateTime": "2024-12-03T18:00:00Z",
+    "status": "canceled"
+  },
+  {
+    "name": "Ana Torres",
+    "numPeople": 12,
+    "dateTime": "2024-12-04T12:45:00Z",
+    "status": "completed"
+  },
+  {
+    "name": "Luis Fernández",
+    "numPeople": 10,
+    "dateTime": "2024-12-05T19:15:00Z",
+    "status": "pending"
+  },
+  {
+    "name": "Sofía Martínez",
+    "numPeople": 2,
+    "dateTime": "2024-12-06T08:30:00Z",
+    "status": "confirmed"
+  },
+  {
+    "name": "Miguel Ramírez",
+    "numPeople": 6,
+    "dateTime": "2024-12-07T16:00:00Z",
+    "status": "canceled"
+  },
+  {
+    "name": "Isabel Gómez",
+    "numPeople": 9,
+    "dateTime": "2024-12-08T20:00:00Z",
+    "status": "completed"
+  },
+  {
+    "name": "David Sánchez",
+    "numPeople": 15,
+    "dateTime": "2024-12-09T13:00:00Z",
+    "status": "pending"
+  },
+  {
+    "name": "Carmen Ortega",
+    "numPeople": 4,
+    "dateTime": "2024-12-10T10:00:00Z",
+    "status": "confirmed"
+  },
+  {
+    "name": "Pedro Ruiz",
+    "numPeople": 7,
+    "dateTime": "2024-12-11T15:00:00Z",
+    "status": "canceled"
+  },
+  {
+    "name": "Laura Castro",
+    "numPeople": 1,
+    "dateTime": "2024-12-12T17:30:00Z",
+    "status": "completed"
+  },
+  {
+    "name": "José Vega",
+    "numPeople": 11,
+    "dateTime": "2024-12-13T09:30:00Z",
+    "status": "pending"
+  },
+  {
+    "name": "Patricia Silva",
+    "numPeople": 14,
+    "dateTime": "2024-12-14T20:15:00Z",
+    "status": "confirmed"
+  },
+  {
+    "name": "Andrés León",
+    "numPeople": 5,
+    "dateTime": "2024-12-15T11:00:00Z",
+    "status": "canceled"
+  },
+  {
+    "name": "Daniela Pardo",
+    "numPeople": 13,
+    "dateTime": "2024-12-16T18:45:00Z",
+    "status": "completed"
+  },
+  {
+    "name": "Jorge Flores",
+    "numPeople": 2,
+    "dateTime": "2024-12-17T14:30:00Z",
+    "status": "pending"
+  },
+  {
+    "name": "Rosa Morales",
+    "numPeople": 6,
+    "dateTime": "2024-12-18T19:00:00Z",
+    "status": "confirmed"
+  },
+  {
+    "name": "Manuel Herrera",
+    "numPeople": 3,
+    "dateTime": "2024-12-19T08:00:00Z",
+    "status": "canceled"
+  },
+  {
+    "name": "Claudia Medina",
+    "numPeople": 9,
+    "dateTime": "2024-12-20T13:15:00Z",
+    "status": "completed"
+  }
+]
