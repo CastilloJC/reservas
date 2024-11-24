@@ -34,6 +34,8 @@ export default function ReservationTable({
       <tr>
         <th className="px-4 py-2 text-left w-1/4">Nombre de la reserva</th>
         <th className="px-4 py-2 text-left w-1/4">Fecha de la reserva</th>
+        <th className="px-4 py-2 text-left w-1/4">Número de personas</th>
+        
         <th className="px-4 py-2 text-left w-1/4">Estado</th>
         <th className="px-4 py-2 text-center w-1/4">Acciones</th>
       </tr>
@@ -49,6 +51,9 @@ export default function ReservationTable({
           </td>
           <td className="border border-gray-300 px-4 py-2 text-sm truncate">
             {new Date(reservation.dateTime).toLocaleString()}
+          </td>
+          <td className="border border-gray-300 px-4 py-2 text-sm truncate">
+            {reservation.numPeople}
           </td>
           <td className="border border-gray-300 px-4 py-2 text-sm capitalize truncate">
             {translateStatus(reservation.status)}
